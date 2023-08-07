@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        h1{
+            border: 2px solid Tomato;
+            color:white;
+            background-color: aqua;}
+        h2{
+            border: 4px solid DodgerBlue;
+        }
+    
+    </style>
+<body>
+
+<h1 >Hii,I am using a HTML for making an web page.</h1>
+
+<h2 >This is an color tag which give a color to the border.</h1>
+
+<h1>Its amazing.</h1>
+
+</body>
+</html>
+
